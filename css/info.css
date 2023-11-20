@@ -1,0 +1,12 @@
+.section--modificar{
+    text-align: justify;
+    font-size: 15px;
+    line-height: 1.9;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.section__title {
+    color: #abd07e;
+    font-weight: 600;
+}
